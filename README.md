@@ -8,6 +8,18 @@
 ## 🌟 Overview
 This project is a robust desktop application built using Electron, Express.js, and MongoDB. It provides seamless user authentication features, including login and signup functionality, along with a dynamic dashboard for users to manage their profile information.
 
+## 📸 Preview
+<div align="center">
+  <h3>Login Screen</h3>
+  <img src="preview/1.png" alt="Login Screen" width="800"/>
+  
+  <h3>Sign Up Interface</h3>
+  <img src="preview/2.png" alt="Sign Up Interface" width="800"/>
+  
+  <h3>User Dashboard</h3>
+  <img src="preview/3.png" alt="User Dashboard" width="800"/>
+</div>
+
 ## ✨ Features
 - 🔐 Secure user authentication (login/signup)
 - 👤 Interactive dashboard with profile picture
